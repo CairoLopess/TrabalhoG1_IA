@@ -29,3 +29,5 @@ Videos de demonstração
 
 
 observações (ponto a ser melhorado) - o chat não é bloqueado quando o usuario manda uma mensagem/imagem, entao sugiro esperar a resposta para depois enviar outra mensagem
+assim que é feito o upload da imagem, o modelo ja começa a processar 
+
