@@ -1,5 +1,5 @@
 
-chat bot para a pizaria La Bella Pizza
+Chat bot para a pizaria La Bella Pizza
 
 Para responder as perguntas dos usuários é usado um contexto específico da pizzaria, além de guardar o historico de mensagens
 
