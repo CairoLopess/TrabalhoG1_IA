@@ -28,6 +28,6 @@ Videos de demonstração
 [video queijo ralado](https://drive.google.com/file/d/1DxOAlMwc3xsUjtca5aI6M5FSjOOCR0FI/view?usp=sharing)
 
 
-observações (ponto a ser melhorado) - o chat não é bloqueado quando o usuario manda uma mensagem/imagem, entao sugiro esperar a resposta para depois enviar outra mensagem
+observações (ponto a ser melhorado) - o chat não é bloqueado quando o usuario manda uma mensagem/imagem, entao sugiro esperar a resposta para depois enviar outra mensagem,
 assim que é feito o upload da imagem, o modelo ja começa a processar 
 
